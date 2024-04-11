@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">lab13</string>
+    <string name="btn_add">+</string>
+    <string name="btn_sub">-</string>
+    <string name="btn_mul">*</string>
+    <string name="btn_div">÷</string>
+    <string name="btn_pow">pow</string>
+    <string name="btn_sqrt">sqrt</string>
+    <string name="btn_sin">sin</string>
+    <string name="btn_cos">cos</string>
+    <string name="btn_tan">tg</string>
+    <string name="txt_a">A:</string>
+    <string name="txt_b">B:</string>
+    <string name="txt_res">Result:</string>
+    <string name="txt_answ">...</string>
+    <string name="txt_rad">RAD</string>
+    <string name="txt_deg">DEG</string>
+</resources>
